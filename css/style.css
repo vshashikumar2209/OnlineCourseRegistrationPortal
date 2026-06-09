@@ -1,0 +1,11 @@
+
+body{font-family:'Segoe UI',sans-serif;background:#f4f7fc}
+.navbar{background:linear-gradient(90deg,#0a1f8f,#7b2cff)!important}
+.hero{background:linear-gradient(135deg,#081c6b,#6a11cb);padding:120px 0;color:#fff}
+.hero h1{font-size:3rem;font-weight:700}
+.course-card,.faculty-card,.testimonial{transition:.3s}
+.course-card:hover,.faculty-card:hover,.testimonial:hover{transform:translateY(-8px)}
+.card{border:none;border-radius:20px;box-shadow:0 10px 25px rgba(0,0,0,.08)}
+.section-title{text-align:center;margin:50px 0 30px;font-weight:700}
+footer{background:#081c6b;color:white;padding:40px}
+.gradient-btn{background:linear-gradient(90deg,#2563eb,#7b2cff);color:white;border:none}
